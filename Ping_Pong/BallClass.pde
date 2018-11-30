@@ -1,7 +1,7 @@
 class Ball {
   private int Radius;
-  public int X;
-  public int Y;
+  private int X;
+  private int Y;
 
   public int Xm; // X Move
   public int Ym; // Y Move
